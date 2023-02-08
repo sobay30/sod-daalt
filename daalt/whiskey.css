@@ -1,0 +1,87 @@
+.bod1{
+    width: 100%;
+    background-color: rgb(34, 34, 34);
+}
+
+.garval{
+    background-color: rgb(0, 0, 0);
+    padding: 30px 50px;
+    height: 550px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.121),
+    rgba(0, 0, 0, 0.837)) , url('./back.jpg') !important;
+}
+.coc{
+    width: 250px;
+    margin-left: 150px;
+}
+.alc{
+    width: 250px;
+    margin-left: 140px;
+}
+.his{
+    width: 100%;
+    background-size: cover;
+    padding: 30px 50px;
+    height: 550px;
+    margin-bottom: 20px;
+    background-image: linear-gradient(90deg,rgb(0, 0, 0),
+    rgba(0, 0, 0, 0.67)) , url('./his.jpg') !important;
+}
+.ab{
+    background-image: linear-gradient(rgba(11, 11, 11, 0.807),
+    rgba(0, 0, 0, 0.992)) , url('./tor.jpg') !important;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    background-size: cover;
+    height: 550px;
+    padding: 30px 50px;
+}
+.hist{
+    width: 70%;
+    color: white;
+}
+h1{
+    color: rgb(188, 128, 9);
+}
+.coc0{
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+}
+.tanl{
+    width: 100%;
+    background-color: black;
+    height: 290px;
+    margin: 20px 0;
+    padding: 30px 50px;
+}
+.tanl1{
+    width: 100%;
+    background-color: black;
+    height: 290px;
+    padding: 30px 50px;
+}
+.cock{
+    width: 280px;
+    margin: 50px 180px;
+
+}
+h3{
+    color: rgb(188, 128, 9);
+}
+.zaa{
+    color: rgb(188, 128, 9);
+    text-align: center;
+}
+.abo{
+    text-align: center;
+    color: rgb(188, 128, 9);
+}
+.tex{
+    color: white;
+    text-align: center;
+}
+li{
+    color: white;
+}
